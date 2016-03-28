@@ -10,8 +10,6 @@ end
   end
 def edit
 
-
-
 end
 
 
@@ -33,9 +31,14 @@ else
 render 'edit'
 end
 end
+
 def show
 
+
 end
+
+
+
 def destroy
 
 @article.destroy
