@@ -9,10 +9,7 @@ end
  @article = Article.new
   end
 def edit
-
 end
-
-
 def create
   debugger
 @article = Article.new(article_params)
