@@ -1,2 +1,2 @@
 
-This is the repository of first alpha_blog app of ROR developer course
+This is the repository of alpha_blog application.
