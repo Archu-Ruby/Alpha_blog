@@ -7,7 +7,7 @@ def setup
 @category = Category.create(name: "sports")
 
 end
-
+  
 test "should get categories index" do
 
 get :index
